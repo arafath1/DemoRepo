@@ -7,7 +7,7 @@ public class SearchPages {
 	}
 	
 	public void secondsearchPage(){
-		system.out.println("Second search page")
+		System.out.println("Second search page");
 		
 	}
 	
